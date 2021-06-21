@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/asami1234/argoflow
+    repoURL: https://github.com/asami1234/my-argoflow
     targetRevision: "1.0"
     path: kubeflow/katib
     kustomize:
