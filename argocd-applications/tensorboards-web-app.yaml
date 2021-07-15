@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/asami1234/my-argoflow
-    targetRevision: "1.02"
+    targetRevision: "1.03"
     path: kubeflow/notebooks/tensorboards-web-app
     kustomize:
       version: v4.0.5
