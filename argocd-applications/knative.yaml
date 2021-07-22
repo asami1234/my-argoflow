@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/asami1234/my-argoflow
-    targetRevision: "1.05"
+    targetRevision: "1.06"
     path: knative
     kustomize:
       version: v4.0.5
