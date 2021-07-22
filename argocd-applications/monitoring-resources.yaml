@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/asami1234/my-argoflow
-    targetRevision: "1.03"
+    targetRevision: "1.04"
     path: monitoring-resources
     kustomize:
       version: v4.0.5
